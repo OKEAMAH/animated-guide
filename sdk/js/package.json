@@ -87,7 +87,7 @@
     "bs58": "^4.0.1",
     "elliptic": "^6.5.4",
     "js-base64": "^3.6.1",
-    "near-api-js": "^1.0.0"
+    "near-api-js": "^4.0.1"
   },
   "optionalDependencies": {
     "@injectivelabs/networks": "1.10.12",
