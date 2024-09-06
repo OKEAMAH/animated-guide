@@ -32,7 +32,7 @@
     "axios": "^0.28.0",
     "bech32": "^2.0.0",
     "elliptic": "^6.5.7",
-    "ethers": "^6.0.0",
+    "ethers": "^6.13.1",
     "keccak256": "^1.0.6",
     "node-fetch": "^2.6.7",
     "protobufjs": "^6.11.2",
